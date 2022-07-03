@@ -98,6 +98,7 @@ loadSprite("kapsbg", "sprites/kapsbg.png");
 loadSprite("lassie dragon", "sprites/lassie dragon.png");
 loadSprite("rewolwer", "sprites/rewolwer.png");
 
+
 //essentials
 
 }
